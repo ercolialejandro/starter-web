@@ -15,4 +15,4 @@ please fork this repository and then issue pull requests for review
 ## Deployment
 
 ## Copyright
- 2020 git.training.
+ 2020 git.training. all rights reserverd
