@@ -12,3 +12,6 @@ proposito
 como contribuir
 
 ## Deployment
+
+## Copyright
+ 2020 git.training.
