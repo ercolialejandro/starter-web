@@ -6,7 +6,9 @@ this is a simple website project for showing how to use git and github together
 introduccion
 
 ## Purpose
+proposito
 
 ## How to contribute
+como contribuir
 
 ## Deployment
