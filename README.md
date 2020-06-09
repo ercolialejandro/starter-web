@@ -9,7 +9,7 @@ introduccion
 proposito
 
 ## How to contribute
-como contribuir
+please fork this repository and then issue pull requests for review
 
 ## Deployment
 
